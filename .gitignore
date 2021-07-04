@@ -6,6 +6,8 @@
 .pnp.js
 .env
 
+.idea
+
 firebase.prod.js
 
 # testing
